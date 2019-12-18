@@ -1,0 +1,4 @@
+BEGIN
+    INSERTAR_TUERCA;
+END;
+/
